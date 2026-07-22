@@ -1,0 +1,26 @@
+# PowerShell
+*.psd1.bak
+*.psm1.bak
+Modules/
+Build/
+
+# VS Code
+.vscode/
+
+# Build artifacts
+bin/
+obj/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
